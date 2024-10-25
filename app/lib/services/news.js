@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'edfd2cb5bc194d2aa87664619a90549d'; // Add your API key here
+const API_KEY = ''; // Add your API key here
 
 export const fetchNewsArticles = async (query) => {
     try {
