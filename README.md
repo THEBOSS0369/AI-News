@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## AI NEWS BIAS DETECTOR
+
+A modern web application built with Next.js that aggregates news articles and uses sentiment analysis to detect potential bias in news reporting.
+
 
 ## Getting Started
 
